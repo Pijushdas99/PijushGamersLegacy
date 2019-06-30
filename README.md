@@ -1,2 +1,2 @@
-# PijushGamersLegacy
-This project is made with collaboration with https://github.com/tuhinkarmakar3882
+# OpenSourceBlog-1
+This is the first attempt to make a blog site from scratch
